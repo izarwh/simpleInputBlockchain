@@ -1,0 +1,17 @@
+{
+  "name": "hrd",
+  "version": "1.0.0",
+  "description": "block buat data pegawai yang diterima",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Juli",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
